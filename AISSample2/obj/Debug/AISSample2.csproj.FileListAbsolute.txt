@@ -1,0 +1,6 @@
+C:\Users\Acer\Desktop\AQURUS\AISSample2\bin\Debug\AISSample2.dll
+C:\Users\Acer\Desktop\AQURUS\AISSample2\bin\Debug\AISSample2.pdb
+C:\Users\Acer\Desktop\AQURUS\AISSample2\obj\Debug\AISSample2.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\AQURUS\AISSample2\obj\Debug\AISSample2.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\AQURUS\AISSample2\obj\Debug\AISSample2.dll
+C:\Users\Acer\Desktop\AQURUS\AISSample2\obj\Debug\AISSample2.pdb

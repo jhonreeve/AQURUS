@@ -1,0 +1,6 @@
+C:\Users\Acer\Desktop\AQURUS\Sample4\bin\Debug\Sample4.dll
+C:\Users\Acer\Desktop\AQURUS\Sample4\bin\Debug\Sample4.pdb
+C:\Users\Acer\Desktop\AQURUS\Sample4\obj\Debug\Sample4.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\AQURUS\Sample4\obj\Debug\Sample4.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\AQURUS\Sample4\obj\Debug\Sample4.dll
+C:\Users\Acer\Desktop\AQURUS\Sample4\obj\Debug\Sample4.pdb
